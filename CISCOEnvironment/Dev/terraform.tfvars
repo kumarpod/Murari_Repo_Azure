@@ -3,6 +3,10 @@ rg_var_module = {
     name     = "poddar1"
     location = "WestEurope"
   }
+  rg2 = {
+    name     = "poddar2"
+    location = "WestEurope"
+  }
 }
 
 
